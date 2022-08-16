@@ -2,7 +2,7 @@
 
 ## Design on Secure Containers
 
-1. OSv-Optimizing the Operating System for Virtual Machines
+1. OSv-Optimizing the Operating System for Virtual Machines, which is a new OS designed to run single application
 
 2. Graphene-SGX- A Practical Library OS for Unmodified Applications on SGX
 
@@ -39,10 +39,10 @@
 - [binaryno](https://github.com/gmodena/binaryno) - Rust unikernel running on bare ARM CortexM hardware.
 
 ### Generic
-- [ClickOS](http://cnp.neclab.eu/projects/clickos) - Efficient network function virtualization platform, optimized for Xen and developed by NEC.
-- [Clive](http://lsub.org/ls/clive.html) - Research project from Rey Juan Carlos University (Madrid), developed in Go.
+- [ClickOS](http://cnp.neclab.eu/projects/clickos) - Efficient network function virtualization platform, optimized for Xen and developed by NEC, A high-performance, virtualized software middlebox platform (e.g., for NFV).
+- [Clive](http://lsub.org/ls/clive.html) - Research project from Rey Juan Carlos University (Madrid), developed in Go, an OS designed to work in distributed and cloud environments.
 - [Mini-OS](https://wiki.xen.org/wiki/Mini-OS) - Reference kernel distributed with Xen.
-- [Rump Kernels](http://rumpkernel.org) - Development platform reusing NetBSD components for producing efficient unikernels.
+- [Rump Kernels](http://rumpkernel.org) - Development platform reusing NetBSD components for producing efficient unikernels, running unmodified POSIX software as a unikernel
 - [Firecracker](https://firecracker-microvm.github.io) - AWS's VM isolation engine, using in products such as Lambda and Fargate.
 - [Unikraft](https://xenproject.org/developers/teams/unikraft) - Collection of building blocks for unikernel development.
 - [BareMetal](https://github.com/ReturnInfinity/BareMetal) - Self described as an exokernel, it can be used as the starting point for unikernel development.
