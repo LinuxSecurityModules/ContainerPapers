@@ -4,6 +4,8 @@
 
 1. OSv-Optimizing the Operating System for Virtual Machines, which is a new OS designed to run single application
 
+2. LightVM-My VM is Lighter (and Safer) than your Container
+
 2. Graphene-SGX- A Practical Library OS for Unmodified Applications on SGX
 
 3. Directvisor-Virtualization for Bare-metal Cloud
