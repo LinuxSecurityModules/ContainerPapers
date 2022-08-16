@@ -29,7 +29,7 @@
 ### Language oriented
 - [HaLVM](https://galois.com/project/halvm) - Port of Glasgow Haskell compiler producing Xen optimized unikernels.
 - [LING](https://github.com/cloudozer/ling) - Erlang/Elixir unikernel development toolkit targeting Xen.
-- [MirageOS](https://mirage.io) - OCaml unikernel development library.
+- [MirageOS](https://mirage.io) - OCaml unikernel development library using OCAML on XEN. 
 - [runtime.js](http://runtimejs.org) - KVM oriented unikernel for running JavaScript applications via the V8 engine.
 - [IncludeOS](https://github.com/includeos/IncludeOS) - Feature rich unikernel development library for C++.
 - [Toro Kernel](https://torokernel.io) - Lazarus/FreePascal toolkit for unikernel development.
