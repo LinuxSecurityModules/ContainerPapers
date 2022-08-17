@@ -24,7 +24,7 @@
 
 ## FS Sharing 
 
-0. 9p filesystem protocol https://www.kernel.org/doc/html/latest/filesystems/9p.html
+0. 9p filesystem protocol https://www.kernel.org/doc/html/latest/filesystems/9p.html https://github.com/torvalds/linux/tree/master/fs/9p https://github.com/torvalds/linux/tree/master/net/9p
 
 1. XCPU & Clustering http://xcpu.org/papers/xcpu-talk.pdf
 
