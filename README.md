@@ -22,6 +22,22 @@
 1. Blending Containers and Virtual Machines- A Study of Firecracker and gVisor
 
 
+## FS Sharing 
+
+0. 9p filesystem protocol https://www.kernel.org/doc/html/latest/filesystems/9p.html
+
+1. XCPU & Clustering http://xcpu.org/papers/xcpu-talk.pdf
+
+2. KVMFS: control file system for KVM http://xcpu.org/papers/kvmfs.pdf
+
+3. CellFS: A New Programming Model for the Cell BE http://xcpu.org/papers/cellfs-talk.pdf
+
+4. PROSE I/O: Using 9p to enable Application Partitions http://plan9.escet.urjc.es/iwp9/cready/PROSE_iwp9_2006.pdf
+
+5. VirtFS: A Virtualization Aware File System pass-through http://goo.gl/3WPDg
+
+
+
 ## Projects
 
 ### Linux Binary Compatible
