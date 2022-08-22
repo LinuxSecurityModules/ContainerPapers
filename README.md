@@ -17,6 +17,15 @@
 7. X-Containers-Breaking Down Barriers to Improve Performance and Isolation of Cloud-Native Containers
 
 
+## Books
+
+1. Hardware and Software Support for Virtulization
+
+## Blogs
+
+2. VirtFS 虚拟化技术简介
+
+
 ## Compare Secure Containers
 
 1. Blending Containers and Virtual Machines- A Study of Firecracker and gVisor
